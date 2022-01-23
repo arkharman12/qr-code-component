@@ -11,4 +11,4 @@ Your challenge is to build out this QR code component and get it looking as clos
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 ## My solution
-[View]
+[View](https://arkharman12.github.io/qr-code-component/)
